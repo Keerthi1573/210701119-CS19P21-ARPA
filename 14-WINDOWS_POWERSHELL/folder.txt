@@ -1,0 +1,1 @@
+New-Item -Path . -type "directory" -Name "PowerShell" 
